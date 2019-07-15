@@ -148,6 +148,10 @@ header nav ul li a.active
     {
         margin-top: 150px;
     }
+    body
+    {
+        padding: 0 20px;
+    }
 }
     
 body 
