@@ -99,6 +99,7 @@ header nav ul li a.active
 .menu-toggle
 {
     color: black;
+    
     float: left;
     line-height: 50px;
     font-size: 24px;
@@ -155,7 +156,7 @@ body
     font-family: sans-serif;
     color: #363636; <!--Sets text color to a lighter black--> 
     margin:0;
-    padding:0 20px;
+    padding:0 50px;
     
 }
 
